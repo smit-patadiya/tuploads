@@ -1,0 +1,25 @@
+01-27-2018 @ 09:36:36 - TEST MESSAGE
+Status: SUCCESS
+Phone: 918460260849
+Message: Your order #OrderID on Mojocake is now Status.
+
+01-28-2018 @ 07:11:58 - ORDER #6702 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 8000000000
+Message: Your order #6702 on Mojocake is now On hold.
+
+01-28-2018 @ 07:11:58 - ORDER #6702 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocake: Order #6702 switched to On hold.
+
+01-28-2018 @ 12:23:10 - ORDER #6707 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 8460260849
+Message: Your order #6707 on Mojocake is now On hold.
+
+01-28-2018 @ 12:23:10 - ORDER #6707 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocake: Order #6707 switched to On hold.
+

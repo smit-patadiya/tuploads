@@ -1,0 +1,482 @@
+02-08-2018 @ 16:31:56 - ORDER #6973 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 7745879353
+Message: Your order #6973 on Mojocake is now On hold.
+
+02-08-2018 @ 16:31:57 - ORDER #6973 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocake: Order #6973 switched to On hold.
+
+02-08-2018 @ 16:43:55 - ORDER #6974 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 7745879353
+Message: Your order #6974 on Mojocake is now On hold.
+
+02-08-2018 @ 16:43:56 - ORDER #6974 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocake: Order #6974 switched to On hold.
+
+02-09-2018 @ 16:46:13 - ORDER #6978 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 840146125
+Message: Your order #6978 on Mojocakes is now Failed.
+
+02-09-2018 @ 16:46:14 - ORDER #6978 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #6978 switched to Failed.
+
+02-09-2018 @ 17:01:22 - ORDER #6980 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 840146125
+Message: Your order #6980 on Mojocakes is now Failed.
+
+02-09-2018 @ 17:01:22 - ORDER #6980 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #6980 switched to Failed.
+
+02-09-2018 @ 21:21:36 - ORDER #7004 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 7745879353
+Message: Your order #7004 on Mojocakes is now Failed.
+
+02-09-2018 @ 21:21:36 - ORDER #7004 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7004 switched to Failed.
+
+02-12-2018 @ 16:18:18 - TEST MESSAGE
+Status: SUCCESS
+Phone: 918320427497
+Message: Your order #OrderID on Mojocakes is now Status.
+
+02-12-2018 @ 16:18:45 - TEST MESSAGE
+Status: SUCCESS
+Phone: 918320427497
+Message: Your order #OrderID on Mojocakes is now Status.
+
+02-12-2018 @ 16:35:24 - TEST MESSAGE
+Status: SUCCESS
+Phone: 918320427497
+Message: Mojocakes, test sms
+
+02-12-2018 @ 18:05:29 - ORDER #7281 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 8401461254
+Message: Your order #7281 on Mojocakes is now Failed.
+
+02-12-2018 @ 18:05:29 - ORDER #7281 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7281 switched to Failed.
+
+02-12-2018 @ 18:10:12 - ORDER #7281 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 8401461254
+Message: Your order #7281 on Mojocakes is now Cancelled.
+
+02-12-2018 @ 18:10:12 - ORDER #7281 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7281 switched to Cancelled.
+
+02-12-2018 @ 18:13:32 - ORDER #7282 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 8401461254
+Message: Your order #7282 on Mojocakes is now Processing.
+
+02-12-2018 @ 18:13:32 - ORDER #7282 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7282 switched to Processing.
+
+02-12-2018 @ 18:17:40 - ORDER #7282 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 8401461254
+Message: Your order #7282 on Mojocakes is now Completed.
+
+02-12-2018 @ 18:17:41 - ORDER #7282 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7282 switched to Completed.
+
+02-12-2018 @ 18:21:29 - ORDER #7284 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 8401461254
+Message: Mojocakes: Hi Smit P,
+Your order # 7284 on Mojocakes is now Processing.
+
+02-12-2018 @ 18:21:30 - ORDER #7284 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7284 switched to Processing.
+
+02-12-2018 @ 18:25:36 - ORDER #7284 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 8401461254
+Message: Thanks Smit
+
+02-12-2018 @ 18:33:30 - ORDER #7288 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 8401461254
+Message: Mojocakes: Hi Smit P,
+Your order # 7288 on Mojocakes is now Processing.
+
+02-12-2018 @ 18:33:30 - ORDER #7288 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7288 switched to Processing.
+
+02-12-2018 @ 18:35:34 - ORDER #7288 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 8401461254
+Message: Your order #7288 on Mojocakes is now Completed.
+
+02-12-2018 @ 18:35:35 - ORDER #7288 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7288 switched to Completed.
+
+02-12-2018 @ 19:15:49 - ORDER #7293 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 8401461254
+Message: Your order #7293 on Mojocakes is now Processing.
+
+02-12-2018 @ 19:15:50 - ORDER #7293 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7293 switched to Processing.
+
+02-12-2018 @ 19:16:55 - ORDER #7293 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 8401461254
+Message: Your order #7293 on Mojocakes is now Completed.
+
+02-12-2018 @ 19:16:56 - ORDER #7293 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7293 switched to Completed.
+
+02-12-2018 @ 23:01:59 - ORDER #7294 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 8401461254
+Message: Your order #7294 on Mojocakes is now Processing.
+
+02-12-2018 @ 23:01:59 - ORDER #7294 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7294 switched to Processing.
+
+02-12-2018 @ 23:08:19 - ORDER #7295 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: +918401461254
+Message: Your order #7295 on Mojocakes is now Processing.
+
+02-12-2018 @ 23:08:20 - ORDER #7295 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7295 switched to Processing.
+
+02-13-2018 @ 15:49:26 - ORDER #7298 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 8401461254
+Message: Your order #7298 on Mojocakes is now Processing.
+
+02-13-2018 @ 15:49:27 - ORDER #7298 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7298 switched to Processing.
+
+02-13-2018 @ 17:39:00 - ORDER #7299 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 840146125
+Message: Your order #7299 on Mojocakes is now Processing.
+
+02-13-2018 @ 17:39:01 - ORDER #7299 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7299 switched to Processing.
+
+02-14-2018 @ 14:40:14 - ORDER #7301 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 840146125
+Message: Your order #7301 on Mojocakes is now Processing.
+
+02-14-2018 @ 14:40:14 - ORDER #7301 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7301 switched to Processing.
+
+02-14-2018 @ 14:43:46 - ORDER #7301 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 840146125
+Message: Your order #7301 on Mojocakes is now On hold.
+
+02-14-2018 @ 14:43:46 - ORDER #7301 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7301 switched to On hold.
+
+02-14-2018 @ 14:46:43 - ORDER #7301 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 840146125
+Message: Your order #7301 on Mojocakes is now Completed.
+
+02-14-2018 @ 14:46:43 - ORDER #7301 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7301 switched to Completed.
+
+02-14-2018 @ 15:05:30 - ORDER #7302 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: +918401461254
+Message: Your order #7302 on Mojocakes is now Processing.
+
+02-14-2018 @ 15:05:31 - ORDER #7302 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7302 switched to Processing.
+
+02-15-2018 @ 10:52:59 - ORDER #7304 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 840146125
+Message: Your order #7304 on Mojocakes is now Processing.
+
+02-15-2018 @ 10:53:01 - ORDER #7304 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7304 switched to Processing.
+
+02-15-2018 @ 10:56:53 - ORDER #7304 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 840146125
+Message: Your order #7304 on Mojocakes is now On hold.
+
+02-15-2018 @ 10:56:57 - ORDER #7304 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7304 switched to On hold.
+
+02-15-2018 @ 11:07:17 - ORDER #7304 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 840146125
+Message: Your order #7304 on Mojocakes is now Processing.
+
+02-15-2018 @ 11:07:19 - ORDER #7304 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7304 switched to Processing.
+
+02-15-2018 @ 11:10:12 - ORDER #6980 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 840146125
+Message: Your order #6980 on Mojocakes is now Cancelled.
+
+02-15-2018 @ 11:10:17 - ORDER #6980 - ADMIN MESSAGE
+Status: FAILED - cURL error 28: Operation timed out after 5001 milliseconds with 0 bytes received
+Phone: 
+Message: Mojocakes: Order #6980 switched to Cancelled.
+
+02-15-2018 @ 11:53:10 - ORDER #6977 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 8460260849
+Message: Your order #6977 on Mojocakes is now Processing.
+
+02-15-2018 @ 11:53:10 - ORDER #6977 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #6977 switched to Processing.
+
+02-15-2018 @ 12:05:50 - ORDER #7304 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 840146125
+Message: Your order #7304 on Mojocakes is now Completed.
+
+02-15-2018 @ 12:05:51 - ORDER #7304 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7304 switched to Completed.
+
+02-15-2018 @ 12:06:30 - ORDER #7003 - CUSTOMER MESSAGE
+Status: FAILED - cURL error 28: Operation timed out after 5001 milliseconds with 0 bytes received
+Phone: 9669720242
+Message: Your order #7003 on Mojocakes is now Processing.
+
+02-15-2018 @ 12:06:31 - ORDER #7003 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7003 switched to Processing.
+
+02-15-2018 @ 12:26:01 - ORDER #7305 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 7276278721
+Message: Your order #7305 on Mojocakes is now Processing.
+
+02-15-2018 @ 12:26:02 - ORDER #7305 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7305 switched to Processing.
+
+02-15-2018 @ 12:26:58 - ORDER #7305 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 7276278721
+Message: Your order #7305 on Mojocakes is now Completed.
+
+02-15-2018 @ 12:26:59 - ORDER #7305 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7305 switched to Completed.
+
+02-15-2018 @ 12:31:57 - ORDER #6959 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 1234567890
+Message: Your order #6959 on Mojocakes is now Processing.
+
+02-15-2018 @ 12:31:58 - ORDER #6959 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #6959 switched to Processing.
+
+02-15-2018 @ 12:32:14 - ORDER #6707 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 8460260849
+Message: Your order #6707 on Mojocakes is now Processing.
+
+02-15-2018 @ 12:32:19 - ORDER #6707 - ADMIN MESSAGE
+Status: FAILED - cURL error 28: Operation timed out after 5001 milliseconds with 0 bytes received
+Phone: 
+Message: Mojocakes: Order #6707 switched to Processing.
+
+02-15-2018 @ 12:34:19 - ORDER #7302 - CUSTOMER MESSAGE
+Status: FAILED - cURL error 28: Operation timed out after 5001 milliseconds with 0 bytes received
+Phone: +918401461254
+Message: Your order #7302 on Mojocakes is now Completed.
+
+02-15-2018 @ 12:34:20 - ORDER #7302 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7302 switched to Completed.
+
+02-15-2018 @ 12:34:32 - ORDER #7299 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 840146125
+Message: Your order #7299 on Mojocakes is now Completed.
+
+02-15-2018 @ 12:34:34 - ORDER #7299 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7299 switched to Completed.
+
+02-15-2018 @ 12:35:37 - ORDER #7306 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 8401461254
+Message: Your order #7306 on Mojocakes is now Processing.
+
+02-15-2018 @ 12:35:38 - ORDER #7306 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7306 switched to Processing.
+
+02-15-2018 @ 12:38:50 - ORDER #7281 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 8401461254
+Message: Your order #7281 on Mojocakes is now Refunded.
+
+02-15-2018 @ 12:38:51 - ORDER #7281 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7281 switched to Refunded.
+
+02-15-2018 @ 12:59:53 - ORDER #7308 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 7276278721
+Message: Your order #7308 on Mojocakes is now Processing.
+
+02-15-2018 @ 12:59:57 - ORDER #7308 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7308 switched to Processing.
+
+02-15-2018 @ 13:01:55 - ORDER #7306 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 8401461254
+Message: Your order #7306 on Mojocakes is now Completed.
+
+02-15-2018 @ 13:01:58 - ORDER #7306 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7306 switched to Completed.
+
+02-15-2018 @ 13:02:23 - ORDER #7308 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 7276278721
+Message: Your order #7308 on Mojocakes is now Completed.
+
+02-15-2018 @ 13:02:24 - ORDER #7308 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7308 switched to Completed.
+
+02-15-2018 @ 18:43:13 - ORDER #7308 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 7276278721
+Message: Your order #7308 on Mojocakes is now On hold.
+
+02-15-2018 @ 18:43:17 - ORDER #7308 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7308 switched to On hold.
+
+02-15-2018 @ 18:46:46 - ORDER #7310 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 8460034758
+Message: Your order #7310 on Mojocakes is now Processing.
+
+02-15-2018 @ 18:46:47 - ORDER #7310 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7310 switched to Processing.
+
+02-15-2018 @ 18:48:37 - ORDER #7310 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 8460034758
+Message: Your order #7310 on Mojocakes is now On hold.
+
+02-15-2018 @ 18:48:37 - ORDER #7310 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7310 switched to On hold.
+
+02-15-2018 @ 18:49:15 - ORDER #7310 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 8460034758
+Message: Your order #7310 on Mojocakes is now Processing.
+
+02-15-2018 @ 18:49:15 - ORDER #7310 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7310 switched to Processing.
+
+02-15-2018 @ 19:11:18 - ORDER #7310 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 8460034758
+Message: Your order #7310 on Mojocakes is now Failed.
+
+02-15-2018 @ 19:11:19 - ORDER #7310 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7310 switched to Failed.
+
+02-15-2018 @ 22:40:30 - ORDER #7311 - CUSTOMER MESSAGE
+Status: SUCCESS
+Phone: 9669720242
+Message: Your order #7311 on Mojocakes is now Processing.
+
+02-15-2018 @ 22:40:30 - ORDER #7311 - ADMIN MESSAGE
+Status: SUCCESS
+Phone: 
+Message: Mojocakes: Order #7311 switched to Processing.
+

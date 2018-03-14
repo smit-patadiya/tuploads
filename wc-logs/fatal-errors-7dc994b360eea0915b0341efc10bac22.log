@@ -1,0 +1,156 @@
+2018-01-27T08:42:56+00:00 CRITICAL Allowed memory size of 268435456 bytes exhausted (tried to allocate 1048577 bytes)
+
+2018-01-27T08:44:55+00:00 CRITICAL Maximum execution time of 180 seconds exceeded
+
+2018-01-27T10:14:10+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-27T10:33:07+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-27T10:42:33+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-27T10:43:59+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-27T10:45:12+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-27T10:54:11+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-27T10:54:54+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-27T10:54:59+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-27T10:55:10+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-27T10:55:25+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-27T10:56:26+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-27T10:57:21+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-27T10:59:48+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-27T11:01:20+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-27T11:01:59+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-27T11:04:55+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-27T11:35:08+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-27T11:35:11+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-27T11:36:31+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-27T11:37:03+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-27T11:54:05+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-27T11:54:52+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-27T12:04:16+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-27T12:08:16+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-27T18:57:08+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-27T19:01:43+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-27T19:35:37+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T03:15:35+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T04:27:52+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T04:28:48+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T05:11:56+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T05:15:39+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T05:16:16+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T05:51:55+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T06:27:30+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T06:39:38+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T06:40:06+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T06:42:15+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T06:56:58+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T07:46:16+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T07:47:36+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T07:47:58+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T12:10:26+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T12:12:00+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T12:17:46+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T12:23:42+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T12:23:59+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T12:24:04+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T12:25:41+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T14:35:20+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T14:35:50+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T14:37:20+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T14:37:22+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T14:38:04+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T14:40:55+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T14:44:17+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T20:09:08+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T20:39:48+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-28T23:13:44+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-29T04:54:46+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-29T08:22:25+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-29T08:22:45+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-29T08:26:08+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-29T08:26:25+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-29T08:26:38+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-29T08:26:42+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-29T08:27:39+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-29T08:29:32+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-29T08:30:28+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-29T11:50:57+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-29T11:54:17+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-29T11:55:50+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-29T11:56:09+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-29T11:57:55+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-29T11:58:09+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+
+2018-01-29T11:58:21+00:00 CRITICAL Call to a member function get_display_price() on a non-object
+

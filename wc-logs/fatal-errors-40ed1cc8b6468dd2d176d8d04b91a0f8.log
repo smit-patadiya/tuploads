@@ -1,0 +1,54 @@
+2018-02-05T09:23:48+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variation::get_price_html() in /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php:306
+Stack trace:
+#0 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce/includes/class-wc-product-variable.php(269): WC_Product_Variable->get_available_variation(Object(WC_Product_Variation))
+#1 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1061): WC_Product_Variable->get_available_variations()
+#2 /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-hook.php(286): woocommerce_variable_add_to_cart('')
+#3 /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#4 /Applications/MAMP/htdocs/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1008): do_action('woocommerce_var...')
+#6 /Appli
+
+2018-02-05T09:33:24+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Variable as array in /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce/templates/single-product/price.php:25
+Stack trace:
+#0 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(951): wc_get_template('single-product/...')
+#2 /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-hook.php(286): woocommerce_template_single_price('')
+#3 /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /Applications/MAMP/htdocs/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /Applications/MAMP/htdocs/wordpress/wp-content/themes/xstore/woocommerce/single-product-content.php(44): do_action('woocommerce_sin...')
+#6 /Applications/MAMP/htdocs/wordpress/wp-includes/template.php(690): require('/Applications/M...')
+#7 /Appl
+
+2018-02-05T09:33:31+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Variable as array in /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce/templates/single-product/price.php:25
+Stack trace:
+#0 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(951): wc_get_template('single-product/...')
+#2 /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-hook.php(286): woocommerce_template_single_price('')
+#3 /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /Applications/MAMP/htdocs/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /Applications/MAMP/htdocs/wordpress/wp-content/themes/xstore/woocommerce/single-product-content.php(44): do_action('woocommerce_sin...')
+#6 /Applications/MAMP/htdocs/wordpress/wp-includes/template.php(690): require('/Applications/M...')
+#7 /Appl
+
+2018-02-05T09:34:57+00:00 CRITICAL Uncaught Error: Cannot use object of type WC_Product_Variable as array in /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce/templates/single-product/price.php:25
+Stack trace:
+#0 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(951): wc_get_template('single-product/...')
+#2 /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-hook.php(286): woocommerce_template_single_price('')
+#3 /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /Applications/MAMP/htdocs/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /Applications/MAMP/htdocs/wordpress/wp-content/themes/xstore/woocommerce/single-product-content.php(44): do_action('woocommerce_sin...')
+#6 /Applications/MAMP/htdocs/wordpress/wp-includes/template.php(690): require('/Applications/M...')
+#7 /Appl
+
+2018-02-05T09:47:15+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on null in /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce/templates/single-product/price.php:26
+Stack trace:
+#0 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-core-functions.php(209): include()
+#1 /Applications/MAMP/htdocs/wordpress/wp-content/plugins/woocommerce/includes/wc-template-functions.php(951): wc_get_template('single-product/...')
+#2 /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-hook.php(286): woocommerce_template_single_price('')
+#3 /Applications/MAMP/htdocs/wordpress/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /Applications/MAMP/htdocs/wordpress/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /Applications/MAMP/htdocs/wordpress/wp-content/themes/xstore/woocommerce/single-product-content.php(44): do_action('woocommerce_sin...')
+#6 /Applications/MAMP/htdocs/wordpress/wp-includes/template.php(690): require('/Applications/M...')
+#7 /Applications/
+

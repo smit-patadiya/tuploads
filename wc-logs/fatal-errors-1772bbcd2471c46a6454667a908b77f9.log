@@ -1,0 +1,50 @@
+2018-02-09T16:41:52+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_real_escape_string() in /var/www/html/wp-content/plugins/woocommerce-check-pincode-zipcode-for-shipping/list_pincodes.php:187
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-check-pincode-zipcode-for-shipping/list_pincodes.php(335): TT_Example_List_Tablee->prepare_items()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): list_pincodes_f('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin.php(224): do_action('zip-codes_page_...')
+#5 {main}
+  thrown
+
+2018-02-24T15:49:44+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_real_escape_string() in /var/www/html/wp-content/plugins/woocommerce-check-pincode-zipcode-for-shipping/list_pincodes.php:187
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-check-pincode-zipcode-for-shipping/list_pincodes.php(335): TT_Example_List_Tablee->prepare_items()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): list_pincodes_f('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin.php(224): do_action('zip-codes_page_...')
+#5 {main}
+  thrown
+
+2018-02-24T15:49:49+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_real_escape_string() in /var/www/html/wp-content/plugins/woocommerce-check-pincode-zipcode-for-shipping/list_pincodes.php:187
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-check-pincode-zipcode-for-shipping/list_pincodes.php(335): TT_Example_List_Tablee->prepare_items()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): list_pincodes_f('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin.php(224): do_action('zip-codes_page_...')
+#5 {main}
+  thrown
+
+2018-02-24T15:51:44+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_real_escape_string() in /var/www/html/wp-content/plugins/woocommerce-check-pincode-zipcode-for-shipping/list_pincodes.php:187
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-check-pincode-zipcode-for-shipping/list_pincodes.php(335): TT_Example_List_Tablee->prepare_items()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): list_pincodes_f('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin.php(224): do_action('zip-codes_page_...')
+#5 {main}
+  thrown
+
+2018-02-24T15:51:49+00:00 CRITICAL Uncaught Error: Call to undefined function mysql_real_escape_string() in /var/www/html/wp-content/plugins/woocommerce-check-pincode-zipcode-for-shipping/list_pincodes.php:187
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-check-pincode-zipcode-for-shipping/list_pincodes.php(335): TT_Example_List_Tablee->prepare_items()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): list_pincodes_f('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin.php(224): do_action('zip-codes_page_...')
+#5 {main}
+  thrown
+
